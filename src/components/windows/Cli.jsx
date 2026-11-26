@@ -97,7 +97,9 @@ Happy exploring! 🚀
                     commands={commands}
                     welcomeMessage={welcomeMessage}
                     promptLabel={'ankurprajapati:~$'}
-                    promptLabelStyle={{ color: '#00ff00' }}
+                    promptLabelStyle={{ color: '#000000' }}
+                    style={{ backgroundColor: 'white' }}
+                    textColor={'black'}
                 />
             </div>
         </MacWindow>
